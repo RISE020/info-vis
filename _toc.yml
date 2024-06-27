@@ -4,5 +4,5 @@
 format: jb-book
 root: docs/introduction.md
 chapters:
-- file: dataset.md
+- file: docs/dataset.md
 - file: docs/notebook
