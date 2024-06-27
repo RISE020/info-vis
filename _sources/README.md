@@ -1,3 +1,3 @@
 # jupyter-book-template
 
-This repository hosts the tutorial and template code for building a basic Jupyter Book website.
+This repository hosts the Information Visualisation assignment for group C10.
