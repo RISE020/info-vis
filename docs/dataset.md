@@ -1,8 +1,5 @@
 ## Dataset and Preprocessing
 
-TODO: Provide information about the datasets (e.g., where to download them, what
-are the variables in there) and also explain how you preprocess the data.
-
 After settling on the topic of Schiphol, we started searching for our datasets. The [first dataset](https://www.schiphol.nl/nl/schiphol-group/pagina/verkeer-en-vervoer-cijfers/), provided by Schiphol, contains information about the monthly traffic at Schiphol since January 1992. Finding a second dataset was more challenging than expected. Many of the RIVM datasets were provided in `.rdf` format and contained insufficient data or were unable to be read at all. We then stumbled upon a dataset containing the emission of fine particulate matter as measured from eight measuring points around Schiphol. Although this dataset was exactly what we were looking for, it only contained data from 2017 and 2018. Having not found an alternative, we used this dataset for the project proposal. After the proposal, we found a [third dataset](https://www.emissieregistratie.nl/data/vliegvelden), provided by the 'Rijksoverheid', containing the emission of a number of substances from 1990 till 2022 at different airports in the Netherlands. The first and third datasets were used for the final deliverable.
 
 ### Cleaning
