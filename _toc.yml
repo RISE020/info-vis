@@ -5,7 +5,7 @@ format: jb-book
 root: docs/introduction.md
 chapters:
 - file: docs/dataset.md
-- file: notebooks/notebook
+- file: notebooks/datastory
 - file: docs/reflection.md
 - file: docs/work-distribution.md
 - file: docs/references.md
